@@ -1,1 +1,1 @@
-Changes from branch 1 
+Final resolved README content
